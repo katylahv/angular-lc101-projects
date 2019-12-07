@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+.work {
+    color: lime;
+    text-align: center;
+}
+
+.iceCream {
+    color: fuchsia;
+    text-align: center;
+}
